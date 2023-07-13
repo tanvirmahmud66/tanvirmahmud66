@@ -19,10 +19,4 @@ Skills: Python / Django / Rest Framework / JWT / Channel / Javascript / React / 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirmahmud66)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirmahmud66&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanvirmahmud66)  
-
-![GitHub metrics](https://metrics.lecoq.io/tanvirmahmud66)  
-
 ![Profile views](https://gpvc.arturio.dev/tanvirmahmud66)  
