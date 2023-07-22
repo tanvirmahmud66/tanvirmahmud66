@@ -1,4 +1,4 @@
-![Web Application Developer](https://media.licdn.com/dms/image/D5616AQFyC1HL0HGjbQ/profile-displaybackgroundimage-shrink_350_1400/0/1689249679278?e=1694649600&v=beta&t=9b3Ytj-TWt6gVg04QZzHtRy17lneaDesOgRePW0pd1c)
+
 
 <h1 align="center">Hi 👋, I'm Tanvir Mahmud</h1>
 <h3 align="center">A passionate Django backend developer from Bangladesh</h3>
