@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Django Channels](https://github.com/tanvirmahmud66/Channels.git)
 
-- 🌱 I’m currently learning **Django Rest Framework**
-
 - 👯 I’m looking to collaborate on **Github**
 
 - 💬 Ask me about **Python, Django, Rest Framework, Javascript, React**
