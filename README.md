@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirmahmud66&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirmahmud66" /> </p>
 
-- 🔭 I’m currently working on [CSBox](https://github.com/tanvirmahmud66/CSBox.git)
+- 🔭 I’m currently working on [Django Channels](https://github.com/tanvirmahmud66/Channels.git)
 
 - 🌱 I’m currently learning **Django Rest Framework**
 
