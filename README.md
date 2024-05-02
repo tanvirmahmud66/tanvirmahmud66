@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirmahmud66&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirmahmud66" /> </p>
 
-- 🔭 I’m currently working on [Django Channels](https://github.com/tanvirmahmud66/amarshop_v1.git)
+- 🔭 I’m currently working on [amarshop_v1](https://github.com/tanvirmahmud66/amarshop_v1.git)
 
 - 👯 I’m looking to collaborate on **Github**
 
