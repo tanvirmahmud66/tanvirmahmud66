@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Tanvir Mahmud</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer</h3>
 
@@ -7,6 +6,16 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvirmahmud66" alt="tanvirmahmud66" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tanvirmahmud666" target="blank"><img src="https://img.shields.io/twitter/follow/tanvirmahmud666?logo=twitter&style=for-the-badge" alt="tanvirmahmud666" /></a> </p>
+
+- 🔭 I’m currently working on **Panam ERP**
+
+- 🌱 I’m currently learning **PyQt5**
+
+- 👨‍💻 All of my projects are available at [https://tanvir66.netlify.app/](https://tanvir66.netlify.app/)
+
+- 💬 Ask me about **Python, Javascript, Frappe, ERPNext, Django, Rest APIs, React, Full-Stack Development**
+
+- 📫 How to reach me **tanvirmahmud.cse66@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
