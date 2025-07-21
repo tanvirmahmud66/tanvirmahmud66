@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/tanvirmahmud666" target="blank"><img src="https://img.shields.io/twitter/follow/tanvirmahmud666?logo=twitter&style=for-the-badge" alt="tanvirmahmud666" /></a> </p>
 
-- 🔭 I’m currently working on **Panam ERP**
+- 🔭 I’m currently working on **Panam ERP** with Frappe & ERPNext
 
-- 🌱 I’m currently learning **PyQt5**
+- 🌱 I’m currently learning **PyQt5**, **Vue.js**, & **Disgner**
 
 - 👨‍💻 All of my projects are available at [https://tanvir66.netlify.app/](https://tanvir66.netlify.app/)
 
